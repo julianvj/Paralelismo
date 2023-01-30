@@ -1,0 +1,4 @@
+﻿  SumaDeArreglos.cpp
+F:\OMP\PruebaOMP\SumaDeArreglos\SumaDeArreglos.cpp(18,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+F:\OMP\PruebaOMP\SumaDeArreglos\SumaDeArreglos.cpp(19,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  SumaDeArreglos.vcxproj -> F:\OMP\PruebaOMP\x64\Debug\SumaDeArreglos.exe
